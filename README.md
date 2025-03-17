@@ -82,7 +82,3 @@ You can easily customize the application by:
 - Modifying the editor styling in `FXMLPreviewerApp.java`
 - Changing the auto-refresh timing
 - Adding additional editor features
-
-## License
-
-[Add your license information here]
